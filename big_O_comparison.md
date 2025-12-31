@@ -113,6 +113,10 @@ composites in bulk by stepping through arithmetic progressions.
 
 ---
 
+![Big-O comparison plot](images/big_o_prime_algorithms.png)
+
+---
+
 ## Practical takeaway
 
 - The improved RNS method **does improve the Big-O order** versus the original
